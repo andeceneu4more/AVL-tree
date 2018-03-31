@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512663752 source:d:\projects\dl 1\asd\tema8\p1\main.cpp
+	<fstream>
+	<algorithm>
+
